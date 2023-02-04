@@ -8,6 +8,7 @@ export class AppController {
     getRootRoute(){
         return "hello cutie i am server"
     }
+    //just for flow
 
     @Get("/bye")
     byebyeRoute(){
